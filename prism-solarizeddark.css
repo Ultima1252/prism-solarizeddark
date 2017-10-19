@@ -52,12 +52,12 @@ pre[class*="language-"] {
 
 pre[class*="language-"]::-moz-selection, pre[class*="language-"] ::-moz-selection,
 code[class*="language-"]::-moz-selection, code[class*="language-"] ::-moz-selection {
-	background: #586e75; /* base01 */
+	background: #073642; /* base02 */
 }
 
 pre[class*="language-"]::selection, pre[class*="language-"] ::selection,
 code[class*="language-"]::selection, code[class*="language-"] ::selection {
-	background: #586e75; /* base01 */
+	background: #073642; /* base02 */
 }
 
 /* Code blocks */
